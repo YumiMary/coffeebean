@@ -480,3 +480,36 @@ form input[type="submit"]
   .social-widget img{
     width:1.5em;
   }
+  /* responsive design codes */
+  /* @media screen and (max-width:768px){
+  /* the codes below will be applied to screens having a width of 0px -768px */
+  /* .nav ul{
+    display: none;
+  }
+  .ads-item{
+    width:100%;
+  }
+  .merch-item{
+    width:49.5%;
+  }
+  .merch-item:nth-child(2),
+  .merch-item:nth-child(6){
+margin-right: 0;
+  }
+  .form-group{
+    width:100%;
+  }
+  .footer-widget{
+width:49.5%;
+  }
+
+} */
+
+
+
+
+
+
+
+
+
